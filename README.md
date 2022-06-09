@@ -8,9 +8,9 @@ Usage:
 - bash sny.sh oss_text_file.txt
  
  oss_text_file example
-  package1 version
-  package2 1.0.1
+  - package1 version
+  - package2 1.0.1
 
 Output:
-All Results will be stored in 'results.txt'
-Vulnerable Packages will be stored in 'vulnerable.txt'
+- All Results will be stored in 'results.txt'
+- Vulnerable Packages will be stored in 'vulnerable.txt'
